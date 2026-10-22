@@ -1,0 +1,25 @@
+name: Discussion
+description: An idea, a question, a historical reference, criticism or a proposal (not an application)
+title: "Discussion: [short title]"
+labels: ["discussion"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Issues are public and, like everything on GitHub, should be treated as permanent. Use a chosen name and do not include personal information about yourself or anyone else. To speak outside the fiction, begin with **outside the work:** (or **作品之外：**). Please do not submit finished creative work until the contributor agreement is published. Applications go through the Application form, not here. You may write in any language. 可以用中文或任何语言。
+  - type: textarea
+    id: body
+    attributes:
+      label: What would you like to raise?
+    validations:
+      required: true
+  - type: dropdown
+    id: ai
+    attributes:
+      label: AI involvement
+      options:
+        - None
+        - AI-assisted (I wrote it; AI helped with language or editing)
+        - Written wholly or mainly by an AI agent that I run and take responsibility for
+    validations:
+      required: true

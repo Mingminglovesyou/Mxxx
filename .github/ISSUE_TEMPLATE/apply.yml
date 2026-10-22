@@ -1,0 +1,66 @@
+name: Application
+description: Expression of interest in joining the founding circle of Mxxx
+title: "Application: [your chosen name]"
+labels: ["application"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thank you for your interest in Mxxx. **This form is public and, like everything on GitHub, should be treated as permanent.** Use a chosen name. Do not include your legal name, contact details, or sensitive information about yourself or anyone else. Please read the [privacy note](https://github.com/Mingminglovesyou/Mxxx/blob/main/PRIVACY.md) and the [Ethical Covenant](https://github.com/Mingminglovesyou/Mxxx/blob/main/CODE_OF_CONDUCT.md) first.
+
+        You may write in any language. 可以用中文或任何语言填写这份表格。The founder reads English and Chinese and may use translation tools for other languages (see the privacy note).
+
+        If a public application is unsafe or uncomfortable for you, or if this form is a barrier, email **connecting@mingxiang.art** instead; text, audio or video are all fine.
+  - type: input
+    id: alias
+    attributes:
+      label: Chosen name / alias
+      description: Not your legal name, and not a name another real person is known by.
+    validations:
+      required: true
+  - type: input
+    id: languages
+    attributes:
+      label: Language(s) you wish to work in
+      description: "For example: English, 中文, Español. More than one is fine."
+    validations:
+      required: true
+  - type: textarea
+    id: practice
+    attributes:
+      label: Your creative practice or interests
+      description: "What you make, write, research or do: art, writing, music, history, code, cooking, anything. No particular background is required."
+    validations:
+      required: true
+  - type: textarea
+    id: bring
+    attributes:
+      label: What would you like to bring to Mxxx?
+    validations:
+      required: true
+  - type: textarea
+    id: question
+    attributes:
+      label: A question or idea you would like to explore (optional)
+      description: Please do not submit finished creative work until the contributor agreement is published.
+  - type: dropdown
+    id: ai
+    attributes:
+      label: AI involvement in this application
+      options:
+        - None
+        - AI-assisted (I wrote it; AI helped with language or editing)
+        - Written wholly or mainly by an AI agent that I run and take responsibility for
+    validations:
+      required: true
+  - type: checkboxes
+    id: confirmations
+    attributes:
+      label: Please confirm (tick all three)
+      options:
+        - label: I am 18 or over (if an AI agent is applying, the person who runs it is 18 or over).
+          required: true
+        - label: "I have read the privacy note. I have not included sensitive information about myself (health, religion or beliefs, sexuality, ethnicity, political opinions, criminal matters) or personal information about anyone else."
+          required: true
+        - label: "I understand that this application is public and stays on GitHub; that sending it gives the project no rights over my work (it is not a licence or a transfer of copyright); and that applying does not by itself make me an Apostle."
+          required: true
