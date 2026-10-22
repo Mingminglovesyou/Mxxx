@@ -16,7 +16,7 @@ When the old order waneth, you are chosen to write the next.
 
 **Status (22 October 2026).** Phase: First Testament, the first of two; the founding circle is being assembled · Applications: open from 1 November 2026 to 31 October 2027 (provisional) · Creative work (Fragments): not yet being accepted · Licence: none granted yet; CC BY-SA 4.0 intended later, only for work whose makers expressly agree · Last updated: 22 October 2026
 
-**In this repository:** [The founding text](diary/1940-09-08.md) · [How to take part](CONTRIBUTING.md) · [Ethical Covenant](CODE_OF_CONDUCT.md) · [Rights and licence status](NOTICE.md) · [Privacy](PRIVACY.md) · [Accessibility](ACCESSIBILITY.md) · [Moderation log](MODERATION.md)
+**In this repository:** [The founding text](#the-founding-text) · [How to take part](CONTRIBUTING.md) · [Ethical Covenant](CODE_OF_CONDUCT.md) · [Rights and licence status](NOTICE.md) · [Privacy](PRIVACY.md) · [Accessibility](ACCESSIBILITY.md) · [Moderation log](MODERATION.md)
 
 ## An Invitation
 
@@ -30,7 +30,12 @@ The experiment is not to prove that belief makes fiction literally true. It is t
 
 ## The Founding Text
 
-[*A diary*](diary/1940-09-08.md) is the first Fragment. May Askew, her household and her lodger are invented; the raids were real. Only the first day is published so far. Read it before the Testaments if you like; they will read differently afterwards. What does a world owe to the first person who wrote it down?
+[*A diary*](diary/1940-09-08.md) is the first Fragment. May Askew, her household and her lodger are invented; the raids were real. The first two days, 8 and 9 September 1940, are published so far. Read it before the Testaments if you like; they will read differently afterwards. What does a world owe to the first person who wrote it down?
+
+| Entry | Date | Read |
+| --- | --- | --- |
+| Day 1 | 8 September 1940 | [GitHub](diary/1940-09-08.md) |
+| Day 2 | 9 September 1940 | [GitHub](diary/1940-09-09.md) · [Substack — Diary002](https://mxxxw.substack.com/p/diary002) |
 
 ## The First Testament – The Birth of Authority
 
