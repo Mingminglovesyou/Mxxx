@@ -30,12 +30,13 @@ The experiment is not to prove that belief makes fiction literally true. It is t
 
 ## The Founding Text
 
-[*A diary*](diary/1940-09-08.md) is the first Fragment. May Askew, her household and her lodger are invented; the raids were real. The first two days, 8 and 9 September 1940, are published so far. Read it before the Testaments if you like; they will read differently afterwards. What does a world owe to the first person who wrote it down?
+[*A diary*](diary/1940-09-08.md) is the first Fragment. May Askew, her household and her lodger are invented; the raids were real. The first three days, 8–10 September 1940, are published so far. Read it before the Testaments if you like; they will read differently afterwards. What does a world owe to the first person who wrote it down?
 
 | Entry | Date | Read |
 | --- | --- | --- |
 | Day 1 | 8 September 1940 | [GitHub](diary/1940-09-08.md) |
 | Day 2 | 9 September 1940 | [GitHub](diary/1940-09-09.md) · [Substack — Diary002](https://mxxxw.substack.com/p/diary002) |
+| Day 3 | 10 September 1940 | [GitHub](diary/1940-09-10.md) |
 
 ## The First Testament – The Birth of Authority
 
