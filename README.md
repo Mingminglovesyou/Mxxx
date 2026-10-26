@@ -14,7 +14,7 @@ When the old order waneth, you are chosen to write the next.
 
 *Mxxx borrows the language of scripture and asks no one to believe anything. How real people are invited into the fiction, and how they leave it, is set out in the [Ethical Covenant](CODE_OF_CONDUCT.md).*
 
-**Status (22 October 2026).** Phase: First Testament, the first of two; the founding circle is being assembled · Applications: open from 1 November 2026 to 31 October 2027 (provisional) · Creative work (Fragments): not yet being accepted · Licence: none granted yet; CC BY-SA 4.0 intended later, only for work whose makers expressly agree · Last updated: 25 October 2026
+**Status (22 October 2026).** Phase: First Testament, the first of two; the founding circle is being assembled · Applications: open from 1 November 2026 to 31 October 2027 (provisional) · Creative work (Fragments): not yet being accepted · Licence: none granted yet; CC BY-SA 4.0 intended later, only for work whose makers expressly agree · Last updated: 26 October 2026
 
 **In this repository:** [The founding text](#the-founding-text) · [How to take part](CONTRIBUTING.md) · [Ethical Covenant](CODE_OF_CONDUCT.md) · [Rights and licence status](NOTICE.md) · [Privacy](PRIVACY.md) · [Accessibility](ACCESSIBILITY.md) · [Moderation log](MODERATION.md)
 
@@ -30,7 +30,7 @@ The experiment is not to prove that belief makes fiction literally true. It is t
 
 ## The Founding Text
 
-[*A diary*](diary/1940-09-08.md) is the first Fragment. May Askew, her household and her lodger are invented; the raids were real. The first four days, 8–11 September 1940, are published so far. Read it before the Testaments if you like; they will read differently afterwards. What does a world owe to the first person who wrote it down?
+[*A diary*](diary/1940-09-08.md) is the first Fragment. May Askew, her household and her lodger are invented; the raids were real. Five days, 8–12 September 1940, and a letter dated 16 September 1940 are published so far. Read it before the Testaments if you like; they will read differently afterwards. What does a world owe to the first person who wrote it down?
 
 | Entry | Date | Read |
 | --- | --- | --- |
@@ -38,6 +38,8 @@ The experiment is not to prove that belief makes fiction literally true. It is t
 | Day 2 | 9 September 1940 | [GitHub](diary/1940-09-09.md) · [Substack — Diary002](https://mxxxw.substack.com/p/diary002) |
 | Day 3 | 10 September 1940 | [GitHub](diary/1940-09-10.md) · [Substack — Diary003](https://mxxxw.substack.com/p/diary003) |
 | Day 4 | 11 September 1940 | [GitHub](diary/1940-09-11.md) · [Substack — Diary004](https://mxxxw.substack.com/p/diary004) |
+| Day 5 | 12 September 1940 | [GitHub](diary/1940-09-12.md) · [Substack — Diary005](https://mxxxw.substack.com/p/diary005) |
+| Letter | 16 September 1940 | [GitHub](diary/1940-09-16.md) · [Substack — Diary006 Letter to Edie](https://mxxxw.substack.com/p/diary006-letter-to-edie) |
 
 ## The First Testament – The Birth of Authority
 
